@@ -1,0 +1,82 @@
+.main_page{
+    padding-left: 300px;
+    width: 800px;
+    padding-top: 20px;
+
+}
+
+.title{
+    position: relative;
+    color:#960cf2;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.personal{
+    padding-left: 0px;
+}
+.mypic{
+    margin-top: 20px;
+    width: 130px;
+    height: 170px;
+    float: left;
+}
+
+.name{
+    padding-top: 20px;
+    position: relative;
+    margin-left: 150px;
+    font-size: 30px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    color: #0764ef;
+
+}
+
+.email{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;   
+}
+
+.address{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.phone{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.academic{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+h2{
+    font-size: 35px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    color: #0764ef;
+
+}
+
+li{
+    font-size: 20px;
+    margin-top: 10px;
+
+
+}
